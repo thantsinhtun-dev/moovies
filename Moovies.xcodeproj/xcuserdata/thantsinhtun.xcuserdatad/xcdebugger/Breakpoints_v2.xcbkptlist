@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AFB68A6C-D928-4D34-877F-599462E5C6AB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE60EB16-9126-4AAE-B620-6221E836FE54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Moovies/Src/Scenes/HomeView/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "276"
+            endingLineNumber = "276"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DE9BBB0-C398-498D-B2BD-06FF64FE1A79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Moovies/Src/Scenes/DetailView/DetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init(showDetail:viewModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1DE9BBB0-C398-498D-B2BD-06FF64FE1A79 - 87a2a8083ef3b44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Moovies_DEV.AboutMovieView, Moovies_DEV.CastListView, SwiftUI.Spacer)&gt; in Moovies_DEV.DetailView.body.getter : some"
+                  moduleName = "Moovies DEV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thantsinhtun/IosDevelopment/Moovies/Moovies/Src/Scenes/DetailView/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "1DE9BBB0-C398-498D-B2BD-06FF64FE1A79 - d723755abb067885"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Moovies_DEV.DetailView.init(showDetail: SwiftUI.Binding&lt;Swift.Bool&gt;, viewModel: Moovies_DEV.DetailViewModel) -&gt; Moovies_DEV.DetailView"
+                  moduleName = "Moovies DEV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thantsinhtun/IosDevelopment/Moovies/Moovies/Src/Scenes/DetailView/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "1DE9BBB0-C398-498D-B2BD-06FF64FE1A79 - d723755abb067885"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Moovies_DEV.DetailView.init(showDetail: SwiftUI.Binding&lt;Swift.Bool&gt;, viewModel: Moovies_DEV.DetailViewModel) -&gt; Moovies_DEV.DetailView"
+                  moduleName = "Moovies DEV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thantsinhtun/IosDevelopment/Moovies/Moovies/Src/Scenes/DetailView/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "159">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A666C829-3972-4AC9-A366-9583D30DFA74"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Moovies/Src/Scenes/DetailView/DetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A666C829-3972-4AC9-A366-9583D30DFA74 - 2f2fdb04ef51d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Moovies_DEV.MovieDetailResponseVO&gt;) -&gt; () in Moovies_DEV.DetailView.body.getter : some"
+                  moduleName = "Moovies DEV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thantsinhtun/IosDevelopment/Moovies/Moovies/Src/Scenes/DetailView/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "965">
+               </Location>
+               <Location
+                  uuid = "A666C829-3972-4AC9-A366-9583D30DFA74 - 2f2fdb04ef51d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Moovies_DEV.MovieDetailResponseVO&gt;) -&gt; () in Moovies_DEV.DetailView.body.getter : some"
+                  moduleName = "Moovies DEV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thantsinhtun/IosDevelopment/Moovies/Moovies/Src/Scenes/DetailView/DetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "769">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1C7C77B-D08B-4DC7-ADB6-96818A1127E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Moovies/Src/Scenes/DetailView/DetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "loadMovieDetail(forMovieId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1C7C77B-D08B-4DC7-ADB6-96818A1127E3 - 5941a321351be484"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moovies_DEV.MovieDetailResponseVO) -&gt; () in Moovies_DEV.DetailViewModel.loadMovieDetail(forMovieId: Swift.String) -&gt; ()"
+                  moduleName = "Moovies DEV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thantsinhtun/IosDevelopment/Moovies/Moovies/Src/Scenes/DetailView/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1832">
+               </Location>
+               <Location
+                  uuid = "B1C7C77B-D08B-4DC7-ADB6-96818A1127E3 - 5941a321351be484"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moovies_DEV.MovieDetailResponseVO) -&gt; () in Moovies_DEV.DetailViewModel.loadMovieDetail(forMovieId: Swift.String) -&gt; ()"
+                  moduleName = "Moovies DEV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thantsinhtun/IosDevelopment/Moovies/Moovies/Src/Scenes/DetailView/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1079">
+               </Location>
+               <Location
+                  uuid = "B1C7C77B-D08B-4DC7-ADB6-96818A1127E3 - 5941a321351be484"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moovies_DEV.MovieDetailResponseVO) -&gt; () in Moovies_DEV.DetailViewModel.loadMovieDetail(forMovieId: Swift.String) -&gt; ()"
+                  moduleName = "Moovies DEV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thantsinhtun/IosDevelopment/Moovies/Moovies/Src/Scenes/DetailView/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "883">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8EF8DF3-4CC6-42A8-A303-3FD759EDCF4E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Moovies/Src/Scenes/DetailView/DetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "loadMovieDetail(forMovieId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8EF8DF3-4CC6-42A8-A303-3FD759EDCF4E - 886245ca46a04421"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Moovies_DEV.ErrorResponse&gt;) -&gt; () in Moovies_DEV.DetailViewModel.loadMovieDetail(forMovieId: Swift.String) -&gt; ()"
+                  moduleName = "Moovies DEV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thantsinhtun/IosDevelopment/Moovies/Moovies/Src/Scenes/DetailView/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "566">
+               </Location>
+               <Location
+                  uuid = "A8EF8DF3-4CC6-42A8-A303-3FD759EDCF4E - 5941a321351be4e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moovies_DEV.MovieDetailResponseVO) -&gt; () in Moovies_DEV.DetailViewModel.loadMovieDetail(forMovieId: Swift.String) -&gt; ()"
+                  moduleName = "Moovies DEV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thantsinhtun/IosDevelopment/Moovies/Moovies/Src/Scenes/DetailView/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1079">
+               </Location>
+               <Location
+                  uuid = "A8EF8DF3-4CC6-42A8-A303-3FD759EDCF4E - 886245ca46a044c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Moovies_DEV.ErrorResponse&gt;) -&gt; () in Moovies_DEV.DetailViewModel.loadMovieDetail(forMovieId: Swift.String) -&gt; ()"
+                  moduleName = "Moovies DEV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thantsinhtun/IosDevelopment/Moovies/Moovies/Src/Scenes/DetailView/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1057">
+               </Location>
+               <Location
+                  uuid = "A8EF8DF3-4CC6-42A8-A303-3FD759EDCF4E - 886245ca46a044c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Moovies_DEV.ErrorResponse&gt;) -&gt; () in Moovies_DEV.DetailViewModel.loadMovieDetail(forMovieId: Swift.String) -&gt; ()"
+                  moduleName = "Moovies DEV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thantsinhtun/IosDevelopment/Moovies/Moovies/Src/Scenes/DetailView/DetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "980">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

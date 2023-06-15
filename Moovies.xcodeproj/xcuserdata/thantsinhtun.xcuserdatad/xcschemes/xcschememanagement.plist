@@ -4,10 +4,43 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Moovies DEV.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Moovies copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Moovies.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B9977E842A32D168009C870C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B9977E942A32D16A009C870C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B9977E9E2A32D16A009C870C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B9FA1CC92A32D34900F84A8E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

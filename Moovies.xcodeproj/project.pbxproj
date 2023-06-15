@@ -7,6 +7,56 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B9258BF22A3AB9E200EFA3D0 /* CastResponseVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9258BF12A3AB9E200EFA3D0 /* CastResponseVO.swift */; };
+		B9258BF32A3AB9E200EFA3D0 /* CastResponseVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9258BF12A3AB9E200EFA3D0 /* CastResponseVO.swift */; };
+		B926B54A2A39B4760018FDF9 /* MovieDetailResponseVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B926B5492A39B4760018FDF9 /* MovieDetailResponseVO.swift */; };
+		B926B54B2A39B4760018FDF9 /* MovieDetailResponseVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B926B5492A39B4760018FDF9 /* MovieDetailResponseVO.swift */; };
+		B926B54D2A39B8260018FDF9 /* HomeViewBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = B926B54C2A39B8260018FDF9 /* HomeViewBuilder.swift */; };
+		B926B54E2A39B8260018FDF9 /* HomeViewBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = B926B54C2A39B8260018FDF9 /* HomeViewBuilder.swift */; };
+		B926B5502A39C3720018FDF9 /* MovieDetailVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B926B54F2A39C3720018FDF9 /* MovieDetailVO.swift */; };
+		B926B5512A39C3720018FDF9 /* MovieDetailVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B926B54F2A39C3720018FDF9 /* MovieDetailVO.swift */; };
+		B970C4232A32ED690097C3BC /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4222A32ED690097C3BC /* HomeView.swift */; };
+		B970C4242A32ED690097C3BC /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4222A32ED690097C3BC /* HomeView.swift */; };
+		B970C42D2A32F6410097C3BC /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B970C4292A32F6410097C3BC /* Roboto-Bold.ttf */; };
+		B970C42E2A32F6410097C3BC /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B970C4292A32F6410097C3BC /* Roboto-Bold.ttf */; };
+		B970C42F2A32F6410097C3BC /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B970C42A2A32F6410097C3BC /* Roboto-Medium.ttf */; };
+		B970C4302A32F6410097C3BC /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B970C42A2A32F6410097C3BC /* Roboto-Medium.ttf */; };
+		B970C4312A32F6410097C3BC /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B970C42B2A32F6410097C3BC /* Roboto-Light.ttf */; };
+		B970C4322A32F6410097C3BC /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B970C42B2A32F6410097C3BC /* Roboto-Light.ttf */; };
+		B970C4332A32F6410097C3BC /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B970C42C2A32F6410097C3BC /* Roboto-Regular.ttf */; };
+		B970C4342A32F6410097C3BC /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B970C42C2A32F6410097C3BC /* Roboto-Regular.ttf */; };
+		B970C43C2A32FB7C0097C3BC /* UIFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C43B2A32FB7C0097C3BC /* UIFont.swift */; };
+		B970C43D2A32FB7C0097C3BC /* UIFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C43B2A32FB7C0097C3BC /* UIFont.swift */; };
+		B970C43F2A32FF810097C3BC /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C43E2A32FF810097C3BC /* UIColor.swift */; };
+		B970C4402A32FF810097C3BC /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C43E2A32FF810097C3BC /* UIColor.swift */; };
+		B970C4452A330A6B0097C3BC /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4442A330A6B0097C3BC /* CategoryView.swift */; };
+		B970C4462A330A6B0097C3BC /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4442A330A6B0097C3BC /* CategoryView.swift */; };
+		B970C4482A3310A50097C3BC /* MovieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4472A3310A50097C3BC /* MovieView.swift */; };
+		B970C4492A3310A50097C3BC /* MovieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4472A3310A50097C3BC /* MovieView.swift */; };
+		B970C44C2A3316A80097C3BC /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C44B2A3316A80097C3BC /* DetailView.swift */; };
+		B970C44D2A3316A80097C3BC /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C44B2A3316A80097C3BC /* DetailView.swift */; };
+		B970C44F2A352D400097C3BC /* CastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C44E2A352D400097C3BC /* CastView.swift */; };
+		B970C4502A352D400097C3BC /* CastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C44E2A352D400097C3BC /* CastView.swift */; };
+		B970C4552A35A8CA0097C3BC /* AppModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4542A35A8CA0097C3BC /* AppModel.swift */; };
+		B970C4562A35A8CA0097C3BC /* AppModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4542A35A8CA0097C3BC /* AppModel.swift */; };
+		B970C4582A36DD320097C3BC /* Parsing.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4572A36DD320097C3BC /* Parsing.swift */; };
+		B970C4592A36DD320097C3BC /* Parsing.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4572A36DD320097C3BC /* Parsing.swift */; };
+		B970C45B2A36DE610097C3BC /* TheMovieFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C45A2A36DE610097C3BC /* TheMovieFetcher.swift */; };
+		B970C45C2A36DE610097C3BC /* TheMovieFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C45A2A36DE610097C3BC /* TheMovieFetcher.swift */; };
+		B970C45F2A36DF850097C3BC /* ErrorResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C45E2A36DF850097C3BC /* ErrorResponse.swift */; };
+		B970C4602A36DF850097C3BC /* ErrorResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C45E2A36DF850097C3BC /* ErrorResponse.swift */; };
+		B970C4622A37031C0097C3BC /* MovieResponseVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4612A37031C0097C3BC /* MovieResponseVO.swift */; };
+		B970C4632A37031C0097C3BC /* MovieResponseVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4612A37031C0097C3BC /* MovieResponseVO.swift */; };
+		B970C4652A3703500097C3BC /* MovieVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4642A3703500097C3BC /* MovieVO.swift */; };
+		B970C4662A3703500097C3BC /* MovieVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4642A3703500097C3BC /* MovieVO.swift */; };
+		B970C4682A3704550097C3BC /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4672A3704550097C3BC /* HomeViewModel.swift */; };
+		B970C4692A3704550097C3BC /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C4672A3704550097C3BC /* HomeViewModel.swift */; };
+		B970C46B2A382FC30097C3BC /* GenreVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C46A2A382FC30097C3BC /* GenreVO.swift */; };
+		B970C46C2A382FC30097C3BC /* GenreVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C46A2A382FC30097C3BC /* GenreVO.swift */; };
+		B970C46E2A3830170097C3BC /* GenreResponseVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C46D2A3830170097C3BC /* GenreResponseVO.swift */; };
+		B970C46F2A3830170097C3BC /* GenreResponseVO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B970C46D2A3830170097C3BC /* GenreResponseVO.swift */; };
+		B973A0A32A3865D0006548A3 /* DetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B973A0A22A3865D0006548A3 /* DetailViewModel.swift */; };
+		B973A0A42A3865D0006548A3 /* DetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B973A0A22A3865D0006548A3 /* DetailViewModel.swift */; };
 		B9977E892A32D168009C870C /* MooviesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9977E882A32D168009C870C /* MooviesApp.swift */; };
 		B9977E8B2A32D168009C870C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9977E8A2A32D168009C870C /* ContentView.swift */; };
 		B9977E8D2A32D16A009C870C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9977E8C2A32D16A009C870C /* Assets.xcassets */; };
@@ -14,6 +64,10 @@
 		B9977E9A2A32D16A009C870C /* MooviesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9977E992A32D16A009C870C /* MooviesTests.swift */; };
 		B9977EA42A32D16A009C870C /* MooviesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9977EA32A32D16A009C870C /* MooviesUITests.swift */; };
 		B9977EA62A32D16A009C870C /* MooviesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9977EA52A32D16A009C870C /* MooviesUITestsLaunchTests.swift */; };
+		B9FA1CCB2A32D34900F84A8E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9977E8A2A32D168009C870C /* ContentView.swift */; };
+		B9FA1CCC2A32D34900F84A8E /* MooviesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9977E882A32D168009C870C /* MooviesApp.swift */; };
+		B9FA1CCF2A32D34900F84A8E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9977E8F2A32D16A009C870C /* Preview Assets.xcassets */; };
+		B9FA1CD02A32D34900F84A8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9977E8C2A32D16A009C870C /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +88,37 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B9258BF12A3AB9E200EFA3D0 /* CastResponseVO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CastResponseVO.swift; sourceTree = "<group>"; };
+		B926B5492A39B4760018FDF9 /* MovieDetailResponseVO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailResponseVO.swift; sourceTree = "<group>"; };
+		B926B54C2A39B8260018FDF9 /* HomeViewBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewBuilder.swift; sourceTree = "<group>"; };
+		B926B54F2A39C3720018FDF9 /* MovieDetailVO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailVO.swift; sourceTree = "<group>"; };
+		B970C41D2A32E1D70097C3BC /* Moovies_debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Moovies_debug.xcconfig; sourceTree = "<group>"; };
+		B970C41E2A32E1E90097C3BC /* Moovies_release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Moovies_release.xcconfig; sourceTree = "<group>"; };
+		B970C41F2A32E2190097C3BC /* Moovies DEV_debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Moovies DEV_debug.xcconfig"; sourceTree = "<group>"; };
+		B970C4202A32E22E0097C3BC /* Moovies DEV_release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Moovies DEV_release.xcconfig"; sourceTree = "<group>"; };
+		B970C4222A32ED690097C3BC /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		B970C4292A32F6410097C3BC /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		B970C42A2A32F6410097C3BC /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		B970C42B2A32F6410097C3BC /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Light.ttf"; sourceTree = "<group>"; };
+		B970C42C2A32F6410097C3BC /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		B970C4352A32F67D0097C3BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B970C4362A32F88C0097C3BC /* Dev Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Dev Info.plist"; sourceTree = "<group>"; };
+		B970C43B2A32FB7C0097C3BC /* UIFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIFont.swift; sourceTree = "<group>"; };
+		B970C43E2A32FF810097C3BC /* UIColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
+		B970C4442A330A6B0097C3BC /* CategoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryView.swift; sourceTree = "<group>"; };
+		B970C4472A3310A50097C3BC /* MovieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieView.swift; sourceTree = "<group>"; };
+		B970C44B2A3316A80097C3BC /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		B970C44E2A352D400097C3BC /* CastView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CastView.swift; sourceTree = "<group>"; };
+		B970C4542A35A8CA0097C3BC /* AppModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppModel.swift; sourceTree = "<group>"; };
+		B970C4572A36DD320097C3BC /* Parsing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Parsing.swift; sourceTree = "<group>"; };
+		B970C45A2A36DE610097C3BC /* TheMovieFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheMovieFetcher.swift; sourceTree = "<group>"; };
+		B970C45E2A36DF850097C3BC /* ErrorResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorResponse.swift; sourceTree = "<group>"; };
+		B970C4612A37031C0097C3BC /* MovieResponseVO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieResponseVO.swift; sourceTree = "<group>"; };
+		B970C4642A3703500097C3BC /* MovieVO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieVO.swift; sourceTree = "<group>"; };
+		B970C4672A3704550097C3BC /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		B970C46A2A382FC30097C3BC /* GenreVO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenreVO.swift; sourceTree = "<group>"; };
+		B970C46D2A3830170097C3BC /* GenreResponseVO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenreResponseVO.swift; sourceTree = "<group>"; };
+		B973A0A22A3865D0006548A3 /* DetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewModel.swift; sourceTree = "<group>"; };
 		B9977E852A32D168009C870C /* Moovies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Moovies.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9977E882A32D168009C870C /* MooviesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MooviesApp.swift; sourceTree = "<group>"; };
 		B9977E8A2A32D168009C870C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +129,7 @@
 		B9977E9F2A32D16A009C870C /* MooviesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MooviesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9977EA32A32D16A009C870C /* MooviesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MooviesUITests.swift; sourceTree = "<group>"; };
 		B9977EA52A32D16A009C870C /* MooviesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MooviesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B9FA1CD42A32D34900F84A8E /* Moovies DEV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Moovies DEV.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,13 +154,164 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		B9FA1CCD2A32D34900F84A8E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B970C41C2A32E1650097C3BC /* Configs */ = {
+			isa = PBXGroup;
+			children = (
+				B970C41D2A32E1D70097C3BC /* Moovies_debug.xcconfig */,
+				B970C41E2A32E1E90097C3BC /* Moovies_release.xcconfig */,
+				B970C41F2A32E2190097C3BC /* Moovies DEV_debug.xcconfig */,
+				B970C4202A32E22E0097C3BC /* Moovies DEV_release.xcconfig */,
+			);
+			path = Configs;
+			sourceTree = "<group>";
+		};
+		B970C4212A32ED500097C3BC /* HomeView */ = {
+			isa = PBXGroup;
+			children = (
+				B970C4222A32ED690097C3BC /* HomeView.swift */,
+				B970C4672A3704550097C3BC /* HomeViewModel.swift */,
+				B926B54C2A39B8260018FDF9 /* HomeViewBuilder.swift */,
+			);
+			path = HomeView;
+			sourceTree = "<group>";
+		};
+		B970C4252A32EDA40097C3BC /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		B970C4262A32EDEE0097C3BC /* Src */ = {
+			isa = PBXGroup;
+			children = (
+				B970C43A2A32FB420097C3BC /* Scenes */,
+				B970C4392A32FB250097C3BC /* Helpers */,
+				B970C4382A32FB1E0097C3BC /* Utils */,
+				B970C4372A32FB0F0097C3BC /* Extensions */,
+				B970C4532A35A7F10097C3BC /* Models */,
+				B970C45D2A36DF550097C3BC /* VOS */,
+			);
+			path = Src;
+			sourceTree = "<group>";
+		};
+		B970C4272A32EE1D0097C3BC /* Res */ = {
+			isa = PBXGroup;
+			children = (
+				B970C4362A32F88C0097C3BC /* Dev Info.plist */,
+				B970C4352A32F67D0097C3BC /* Info.plist */,
+				B970C4282A32EE370097C3BC /* Fonts */,
+				B9977E8C2A32D16A009C870C /* Assets.xcassets */,
+			);
+			path = Res;
+			sourceTree = "<group>";
+		};
+		B970C4282A32EE370097C3BC /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				B970C4292A32F6410097C3BC /* Roboto-Bold.ttf */,
+				B970C42B2A32F6410097C3BC /* Roboto-Light.ttf */,
+				B970C42A2A32F6410097C3BC /* Roboto-Medium.ttf */,
+				B970C42C2A32F6410097C3BC /* Roboto-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		B970C4372A32FB0F0097C3BC /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				B970C43B2A32FB7C0097C3BC /* UIFont.swift */,
+				B970C43E2A32FF810097C3BC /* UIColor.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		B970C4382A32FB1E0097C3BC /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		B970C4392A32FB250097C3BC /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				B970C45A2A36DE610097C3BC /* TheMovieFetcher.swift */,
+				B970C4572A36DD320097C3BC /* Parsing.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		B970C43A2A32FB420097C3BC /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				B970C4512A35A7AC0097C3BC /* CellView */,
+				B970C44A2A3316930097C3BC /* DetailView */,
+				B970C4212A32ED500097C3BC /* HomeView */,
+				B9977E882A32D168009C870C /* MooviesApp.swift */,
+				B9977E8A2A32D168009C870C /* ContentView.swift */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		B970C44A2A3316930097C3BC /* DetailView */ = {
+			isa = PBXGroup;
+			children = (
+				B970C44B2A3316A80097C3BC /* DetailView.swift */,
+				B973A0A22A3865D0006548A3 /* DetailViewModel.swift */,
+			);
+			path = DetailView;
+			sourceTree = "<group>";
+		};
+		B970C4512A35A7AC0097C3BC /* CellView */ = {
+			isa = PBXGroup;
+			children = (
+				B970C44E2A352D400097C3BC /* CastView.swift */,
+				B970C4472A3310A50097C3BC /* MovieView.swift */,
+				B970C4442A330A6B0097C3BC /* CategoryView.swift */,
+			);
+			path = CellView;
+			sourceTree = "<group>";
+		};
+		B970C4532A35A7F10097C3BC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B970C4542A35A8CA0097C3BC /* AppModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		B970C45D2A36DF550097C3BC /* VOS */ = {
+			isa = PBXGroup;
+			children = (
+				B970C45E2A36DF850097C3BC /* ErrorResponse.swift */,
+				B970C4612A37031C0097C3BC /* MovieResponseVO.swift */,
+				B970C4642A3703500097C3BC /* MovieVO.swift */,
+				B970C46A2A382FC30097C3BC /* GenreVO.swift */,
+				B970C46D2A3830170097C3BC /* GenreResponseVO.swift */,
+				B926B5492A39B4760018FDF9 /* MovieDetailResponseVO.swift */,
+				B926B54F2A39C3720018FDF9 /* MovieDetailVO.swift */,
+				B9258BF12A3AB9E200EFA3D0 /* CastResponseVO.swift */,
+			);
+			path = VOS;
+			sourceTree = "<group>";
+		};
 		B9977E7C2A32D168009C870C = {
 			isa = PBXGroup;
 			children = (
 				B9977E872A32D168009C870C /* Moovies */,
+				B970C4252A32EDA40097C3BC /* Helper */,
+				B970C41C2A32E1650097C3BC /* Configs */,
 				B9977E982A32D16A009C870C /* MooviesTests */,
 				B9977EA22A32D16A009C870C /* MooviesUITests */,
 				B9977E862A32D168009C870C /* Products */,
@@ -87,6 +324,7 @@
 				B9977E852A32D168009C870C /* Moovies.app */,
 				B9977E952A32D16A009C870C /* MooviesTests.xctest */,
 				B9977E9F2A32D16A009C870C /* MooviesUITests.xctest */,
+				B9FA1CD42A32D34900F84A8E /* Moovies DEV.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -94,9 +332,8 @@
 		B9977E872A32D168009C870C /* Moovies */ = {
 			isa = PBXGroup;
 			children = (
-				B9977E882A32D168009C870C /* MooviesApp.swift */,
-				B9977E8A2A32D168009C870C /* ContentView.swift */,
-				B9977E8C2A32D16A009C870C /* Assets.xcassets */,
+				B970C4262A32EDEE0097C3BC /* Src */,
+				B970C4272A32EE1D0097C3BC /* Res */,
 				B9977E8E2A32D16A009C870C /* Preview Content */,
 			);
 			path = Moovies;
@@ -183,6 +420,23 @@
 			productReference = B9977E9F2A32D16A009C870C /* MooviesUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
+		B9FA1CC92A32D34900F84A8E /* Moovies DEV */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B9FA1CD12A32D34900F84A8E /* Build configuration list for PBXNativeTarget "Moovies DEV" */;
+			buildPhases = (
+				B9FA1CCA2A32D34900F84A8E /* Sources */,
+				B9FA1CCD2A32D34900F84A8E /* Frameworks */,
+				B9FA1CCE2A32D34900F84A8E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Moovies DEV";
+			productName = Moovies;
+			productReference = B9FA1CD42A32D34900F84A8E /* Moovies DEV.app */;
+			productType = "com.apple.product-type.application";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -222,6 +476,7 @@
 				B9977E842A32D168009C870C /* Moovies */,
 				B9977E942A32D16A009C870C /* MooviesTests */,
 				B9977E9E2A32D16A009C870C /* MooviesUITests */,
+				B9FA1CC92A32D34900F84A8E /* Moovies DEV */,
 			);
 		};
 /* End PBXProject section */
@@ -231,8 +486,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B970C4332A32F6410097C3BC /* Roboto-Regular.ttf in Resources */,
+				B970C42F2A32F6410097C3BC /* Roboto-Medium.ttf in Resources */,
 				B9977E902A32D16A009C870C /* Preview Assets.xcassets in Resources */,
+				B970C4312A32F6410097C3BC /* Roboto-Light.ttf in Resources */,
 				B9977E8D2A32D16A009C870C /* Assets.xcassets in Resources */,
+				B970C42D2A32F6410097C3BC /* Roboto-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +509,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		B9FA1CCE2A32D34900F84A8E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B970C4342A32F6410097C3BC /* Roboto-Regular.ttf in Resources */,
+				B970C4302A32F6410097C3BC /* Roboto-Medium.ttf in Resources */,
+				B9FA1CCF2A32D34900F84A8E /* Preview Assets.xcassets in Resources */,
+				B970C4322A32F6410097C3BC /* Roboto-Light.ttf in Resources */,
+				B9FA1CD02A32D34900F84A8E /* Assets.xcassets in Resources */,
+				B970C42E2A32F6410097C3BC /* Roboto-Bold.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -257,8 +529,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B926B5502A39C3720018FDF9 /* MovieDetailVO.swift in Sources */,
+				B970C46B2A382FC30097C3BC /* GenreVO.swift in Sources */,
+				B970C43C2A32FB7C0097C3BC /* UIFont.swift in Sources */,
+				B970C44C2A3316A80097C3BC /* DetailView.swift in Sources */,
+				B970C45B2A36DE610097C3BC /* TheMovieFetcher.swift in Sources */,
+				B970C4682A3704550097C3BC /* HomeViewModel.swift in Sources */,
+				B9258BF22A3AB9E200EFA3D0 /* CastResponseVO.swift in Sources */,
+				B970C4232A32ED690097C3BC /* HomeView.swift in Sources */,
+				B970C4552A35A8CA0097C3BC /* AppModel.swift in Sources */,
+				B973A0A32A3865D0006548A3 /* DetailViewModel.swift in Sources */,
+				B970C44F2A352D400097C3BC /* CastView.swift in Sources */,
+				B970C4482A3310A50097C3BC /* MovieView.swift in Sources */,
+				B970C46E2A3830170097C3BC /* GenreResponseVO.swift in Sources */,
+				B970C4622A37031C0097C3BC /* MovieResponseVO.swift in Sources */,
+				B970C4452A330A6B0097C3BC /* CategoryView.swift in Sources */,
+				B926B54A2A39B4760018FDF9 /* MovieDetailResponseVO.swift in Sources */,
+				B970C4652A3703500097C3BC /* MovieVO.swift in Sources */,
+				B926B54D2A39B8260018FDF9 /* HomeViewBuilder.swift in Sources */,
+				B970C4582A36DD320097C3BC /* Parsing.swift in Sources */,
 				B9977E8B2A32D168009C870C /* ContentView.swift in Sources */,
 				B9977E892A32D168009C870C /* MooviesApp.swift in Sources */,
+				B970C43F2A32FF810097C3BC /* UIColor.swift in Sources */,
+				B970C45F2A36DF850097C3BC /* ErrorResponse.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +569,36 @@
 			files = (
 				B9977EA42A32D16A009C870C /* MooviesUITests.swift in Sources */,
 				B9977EA62A32D16A009C870C /* MooviesUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9FA1CCA2A32D34900F84A8E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B926B5512A39C3720018FDF9 /* MovieDetailVO.swift in Sources */,
+				B970C46C2A382FC30097C3BC /* GenreVO.swift in Sources */,
+				B970C43D2A32FB7C0097C3BC /* UIFont.swift in Sources */,
+				B970C44D2A3316A80097C3BC /* DetailView.swift in Sources */,
+				B970C45C2A36DE610097C3BC /* TheMovieFetcher.swift in Sources */,
+				B970C4692A3704550097C3BC /* HomeViewModel.swift in Sources */,
+				B9258BF32A3AB9E200EFA3D0 /* CastResponseVO.swift in Sources */,
+				B970C4242A32ED690097C3BC /* HomeView.swift in Sources */,
+				B970C4562A35A8CA0097C3BC /* AppModel.swift in Sources */,
+				B973A0A42A3865D0006548A3 /* DetailViewModel.swift in Sources */,
+				B970C4502A352D400097C3BC /* CastView.swift in Sources */,
+				B970C4492A3310A50097C3BC /* MovieView.swift in Sources */,
+				B970C46F2A3830170097C3BC /* GenreResponseVO.swift in Sources */,
+				B970C4632A37031C0097C3BC /* MovieResponseVO.swift in Sources */,
+				B970C4462A330A6B0097C3BC /* CategoryView.swift in Sources */,
+				B926B54B2A39B4760018FDF9 /* MovieDetailResponseVO.swift in Sources */,
+				B970C4662A3703500097C3BC /* MovieVO.swift in Sources */,
+				B926B54E2A39B8260018FDF9 /* HomeViewBuilder.swift in Sources */,
+				B970C4592A36DD320097C3BC /* Parsing.swift in Sources */,
+				B9FA1CCB2A32D34900F84A8E /* ContentView.swift in Sources */,
+				B9FA1CCC2A32D34900F84A8E /* MooviesApp.swift in Sources */,
+				B970C4402A32FF810097C3BC /* UIColor.swift in Sources */,
+				B970C4602A36DF850097C3BC /* ErrorResponse.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -345,7 +668,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -399,7 +722,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -411,6 +734,7 @@
 		};
 		B9977EAA2A32D16A009C870C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B970C41D2A32E1D70097C3BC /* Moovies_debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -419,6 +743,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Moovies/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Moovies/Res/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Moovies;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -439,6 +765,7 @@
 		};
 		B9977EAB2A32D16A009C870C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B970C41E2A32E1E90097C3BC /* Moovies_release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -447,6 +774,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Moovies/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Moovies/Res/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Moovies;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -537,6 +866,70 @@
 			};
 			name = Release;
 		};
+		B9FA1CD22A32D34900F84A8E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B970C41F2A32E2190097C3BC /* Moovies DEV_debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Moovies/Preview Content\"";
+				DEVELOPMENT_TEAM = CL394XTDGP;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Moovies/Res/Dev Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Moovies DEV";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "stone.Moovies-dev";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B9FA1CD32A32D34900F84A8E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B970C4202A32E22E0097C3BC /* Moovies DEV_release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Moovies/Preview Content\"";
+				DEVELOPMENT_TEAM = CL394XTDGP;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Moovies/Res/Dev Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Moovies DEV";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "stone.Moovies-dev";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -547,7 +940,7 @@
 				B9977EA82A32D16A009C870C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		B9977EA92A32D16A009C870C /* Build configuration list for PBXNativeTarget "Moovies" */ = {
 			isa = XCConfigurationList;
@@ -556,7 +949,7 @@
 				B9977EAB2A32D16A009C870C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		B9977EAC2A32D16A009C870C /* Build configuration list for PBXNativeTarget "MooviesTests" */ = {
 			isa = XCConfigurationList;
@@ -565,7 +958,7 @@
 				B9977EAE2A32D16A009C870C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		B9977EAF2A32D16A009C870C /* Build configuration list for PBXNativeTarget "MooviesUITests" */ = {
 			isa = XCConfigurationList;
@@ -574,7 +967,16 @@
 				B9977EB12A32D16A009C870C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
+		};
+		B9FA1CD12A32D34900F84A8E /* Build configuration list for PBXNativeTarget "Moovies DEV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9FA1CD22A32D34900F84A8E /* Debug */,
+				B9FA1CD32A32D34900F84A8E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
